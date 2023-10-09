@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to assist a security administrator in assessing the impact of a breach (e.g., a malware attack) on a network of Virtual Machines (VMs). Given a list of VMs and their connection types, the goal is to determine the risk to other VMs in the network when a specific VM has been infected. The severity of the impact will be determined by the connection type, with different connection types carrying varying levels of risk. The severity order is as follows: Peer-to-peer > TCP > UDP > ICMP.
+This project aims to assist a security administrator in assessing the impact of a breach (e.g., a malware attack) on a network of Virtual Machines (VMs). Given a list of VMs and their connection types, the goal is to determine the risk to other VMs in the network when a specific VM has been infected. The severity of the impact will be determined by the connection type, with different connection types carrying varying levels of risk. The severity order is as follows: Peer-to-peer > TCP > UDP > ICMP
 
 ## Problem Statement
 
